@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuaimmanupm
-- 👀 I’m interested in Cybersecurity and Programming
+- 👀 I’m interested in Cybersecurity, Programming and Data Analytics
 - 🌱 I’m currently learning Computer Science (System Computer) at Universiti Putra Malaysia
 - 💞️ Currently, I’m not yet looking to collaborate on any companies and I need your help in learning
 - 📫 How to reach me using my e-mail (211992@student.upm.edu.my / nuaimmandinie@gmail.com)
